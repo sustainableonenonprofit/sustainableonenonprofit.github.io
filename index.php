@@ -139,6 +139,7 @@ and the other saying designs for the environment or some slogan
 
 
 
+
     <?php include 'footer.php' ?>
 
   </body>

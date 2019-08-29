@@ -32,3 +32,47 @@ body{
 #page-name{
     font-family: "Playfair Display", serif;
 }
+
+
+
+
+
+
+section{
+   display: flex;
+   justify-content: center;
+   flex-wrap: wrap;
+}
+
+/*
+section img{
+   width: 300px;
+   height: 300px;
+   max-width: 100%;
+   max-height: 100%;
+   transition: 0.5s all ease;
+}
+*/
+
+section img{
+   width: 300px;
+   max-width: 100%;
+   max-height: 300px;
+   transition: 0.2s all ease;
+}
+
+ section .media{
+   min-width: 0;
+   margin: 3px;
+   margin-bottom: 30px;
+}
+
+section p{
+  text-align: center;
+  margin-top: 0px;
+}
+
+section img:hover {
+  transform: scale(0.97);
+  transition: 0.5s all ease;
+}
