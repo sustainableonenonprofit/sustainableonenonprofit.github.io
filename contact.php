@@ -1,6 +1,5 @@
 <!-- PHP Tutorial -->
 
-
 <!DOCTYPE html>
 <html>
   <head>
@@ -23,7 +22,7 @@
 
 
 
-  <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeA8JaOXS2nr6WylAbcYt1nPmhZYb1rI0iqMtpWUzxkQrmXuA/viewform?embedded=true" width="1000" height="1021" frameborder="0" align="center">Loading…</iframe>
+  <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeA8JaOXS2nr6WylAbcYt1nPmhZYb1rI0iqMtpWUzxkQrmXuA/viewform?embedded=true" width="90%" height="800" frameborder="0" align="center">Loading…</iframe>
 
     <?php include 'footer.php' ?>
 

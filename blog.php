@@ -16,6 +16,13 @@
       </div>
     </div>
 
+
+<!-- Embed Medium : https://blogpros.com/blog/2019/03/embed-medium-posts-site -->
+
+
+
+
+
     <h2 class="post-title">The Beginnings of a Non-Profit</h2>
     <!--Need to add the date -->
     <p>Hooray! We are now an established 501(c)(3) non-profit! We have so many things
