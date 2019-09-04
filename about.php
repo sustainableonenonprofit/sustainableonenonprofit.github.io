@@ -24,7 +24,7 @@
         <i>Sustainable One</i> is composed of a team of students passionate about saving the environment.</p>
       </p>
       <h3>What do you do with the money you fundraise?</h3>
-      <p>100% of profits earned from our fundraising is donated to organizations that protect our environment.
+      <p>100% of net profits earned from our fundraising is donated to organizations that protect our environment.
          Check out our blog to see which organizations we have recently donated to!</p>
       <h3>What is the Kickstarter for?</h3>
       <p>In order to ensure that 100% of profits earned from fundraising goes towards helping our environment, we created a Kickstarter so supporters can pledge money to help us purchase needed supplies.
@@ -33,15 +33,30 @@
       <p>In our efforts to save the Earth, we hope to reduce our carbon footprint to be one Earth and some stuff.</p>
       <h3>Where do you get your designs from?</h3>
       <p>Our team creates them!</h3>
-      <h3>How can I get involved?</h3>
-      <p>Check our our Get Involved page!
-      </p>
       <!-- We often need volunteers for our events or ideas as to what events we should fundraise at.
         If you have any suggestions, feel free to use the contact form on our website or email us directly at sustainable.one1@gmail.com .
         Any help is definitely appreciated!-->
     </div>
 
     <h3 class="team">Meet the Team!</h3>
+
+
+    <div class="container">
+      <div class="img">
+        <img src="assets/board_photo.JPG" alt="board members photo">
+      </div>
+      <div class="text">
+        <ul>
+          <li><b>Executive Director: </b>Michelle Ly</li>
+          <li><b>Treasurer: </b>Drema Uttecht</li>
+          <li><b>Head of Logistics: </b>Serena Pan</li>
+          <li><b>Head of Social Media: </b>Zoe Lu</li>
+          <li><b>Website Developer: </b>Kelly Ly</li>
+        </ul>
+      </div>
+    </div>
+
+
 
 
 

@@ -59,6 +59,13 @@ and the other saying designs for the environment or some slogan
          As a group of high school students based in Massachusetts, our campaign hopes to encourage youth to be
          leaders in their community and engage in environmental activism.
          100% of our fundraising profits goes towards helping the environment.
+
+<!--
+         Our mission is to engage our community and beyond in protecting the environment through environmental awareness
+         and fundraising. As a student-based campaign in Massachusetts, we seek to encourage youth to be leaders in their
+         communities and get involved in environmental activism.
+
+-->
       </p>
       <!-- We are a group of students based in Massachusetts.
 
@@ -68,6 +75,18 @@ and the other saying designs for the environment or some slogan
     </div>
 
 
+
+
+      <div class="container">
+        <div class="img">
+          <img src="assets/quarry.JPG" alt="quarry photo">
+        </div>
+        <div class="text">
+          <h1><br>Why Sustainability is Important</h1>
+          <p>Why Sustainability is Important</p>
+          <button class="learn-more">Learn More</button>
+        </div>
+      </div>
 
 
 
@@ -136,6 +155,9 @@ and the other saying designs for the environment or some slogan
          <button class="learn-more">Contact</button>
        </div>
     </div>
+
+
+
 
 
 
