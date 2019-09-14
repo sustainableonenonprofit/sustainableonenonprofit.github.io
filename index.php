@@ -79,7 +79,7 @@ and the other saying designs for the environment or some slogan
 
       <div class="container">
         <div class="img">
-          <img src="assets/quarry.JPG" alt="quarry photo">
+          <img src="assets/quarry_square.jpg" alt="quarry photo">
         </div>
         <div class="text">
           <h1><br>Why Sustainability is Important</h1>

@@ -30,6 +30,29 @@ body{
   color: white;
   font-size: 1.5em;
 }
+
+@media screen and (max-width: 1000px) {
+   .hero-text{
+     font-size: 1.3em;
+   }
+   .hero-image{
+     max-height: 600px;
+   }
+}
+
+@media screen and (max-width: 600px) {
+   .hero-text{
+     font-size: 0.95em;
+     top: 50%;
+     left: 50%;
+   }
+   .hero-image{
+     max-height: 500px;
+   }
+ }
+
+
+
 #first-line{
     font-family: 'Open Sans Condensed', sans-serif;
 }
@@ -200,7 +223,7 @@ body{
   background-color: #f0f3f4;
 }
 .img img{
-  width: 450px;
+  width: 380px;
   height: auto;
   padding: 10px;
   margin: auto;
@@ -209,18 +232,17 @@ body{
   border-radius: 50%;
 }
 .text{
-  padding: 30px;
-  margin-left: 5px;
+  padding: 10px;
+  margin-left: 25px;
 }
 .text p{
    font-size: 1.2em;
    margin: auto;
-   padding: 30px 20px 30px 0px;
    font-family: 'Abel', sans-serif;
    color: #35393b;
 }
 .text h1{
   color: #3568de;
   font-family: 'Fira Sans', sans-serif;
-  padding: 0px 65px 0px 0px;
+  padding: 0px 0px 20px 0px;
 }
