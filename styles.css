@@ -6,10 +6,116 @@
 body, html {
     height: 100%;
 }
-/*
-body{
-  margin-top: 0px;
-}*/
+
+@media screen and (max-width: 500px) {
+  header{
+    display: none;
+    visibility: hidden;
+  }
+}
+
+@media screen and (min-width: 501px) {
+  .topnav{
+    display: none;
+    visibility: hidden;
+  }
+}
+
+  /* Header stuff */
+  header img{
+    height: 100px;
+    width: auto;
+    margin-left: 30px;
+    margin-right: 5px;
+  }
+  header{
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    z-index: 1;
+  }
+  header *{
+    display: inline-block;
+  }
+  header li{
+    margin: 18px;
+  }
+  header li:first-child{
+    margin-left: 50px;
+  }
+  header li a{
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+    font-family: 'Assistant', serif;
+    font-weight: bold;
+  }
+  header li a:hover{
+    color: #cc00ff;
+  }
+
+
+
+
+
+
+
+/* Mobile header */
+  .topnav img{
+    height: 45px;
+    width: auto;
+  }
+
+  .topnav {
+    overflow: hidden;
+    background-color: #9bff8a;
+    position: relative;
+  }
+  .topnav #myLinks {
+    display: none;
+  }
+  .topnav a {
+    color: white;
+    padding: 2px 0px 1px 3px; /*padding for logo*/
+    text-decoration: none;
+    font-size: 17px;
+    display: block;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  .topnav a.icon {
+    background: black;
+    display: block;
+    position: absolute;
+    right: 0;
+    top: 0;
+    padding: 16px 18px; /*padding for icon*/
+  }
+
+  .active {
+    background-color: #e9ffe6;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 .hero-image{
   background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("assets/leafy_plant.jpg");
@@ -214,7 +320,7 @@ body{
 
 
 
-/*team photo portion */
+/*flexbox*/
 .container{
   display: flex;
   justify-content: center;
@@ -223,7 +329,7 @@ body{
   background-color: #f0f3f4;
 }
 .img img{
-  width: 380px;
+  width: 345px;
   height: auto;
   padding: 10px;
   margin: auto;
