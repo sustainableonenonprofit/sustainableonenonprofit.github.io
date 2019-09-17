@@ -36,6 +36,7 @@ https://twloha.com/
     </header>
 
     <!-- Top Navigation Menu -->
+    <!--
     <div class="topnav">
       <a href="#home" class="active"><img src="assets/logo_line_alpha.png"></img></a>
       <div id="myLinks">
@@ -47,7 +48,7 @@ https://twloha.com/
         <i class="fa fa-bars"></i>
       </a>
     </div>
-
+-->
 
 
 
@@ -113,36 +114,24 @@ and the other saying designs for the environment or some slogan
         </div>
       </div>
 
-
-
-
-    <div class="what-we-do">
-      <div class="image-container">
-        <img src="assets/quarry.JPG">
+      <div class="container">
+        <div class="img">
+          <img src="assets/main_image.jpg" alt="nature photo">
+        </div>
+        <div class="text">
+          <h1><br>Products</h1>
+          <p>We sell products handmade by us, a group of high school students.
+             From stylish stickers to encourage your reusable water bottle usage to
+             reusable shopping bags, our products will help you reduce your carbon footprint.
+             <br><br>100% of funds earned goes to organizations saving the environment.</p>
+          <button class="learn-more">Learn More</button>
+        </div>
       </div>
-      <div class="text-container">
-        <h1><br>Why Sustainability is Important</h1>
-        <p>lots of reasons why
-         </p>
-         <button class="learn-more">Learn More</button>
-       </div>
-    </div>
 
 
-    <div class="what-we-do">
-      <div class="image-container">
-        <img src="assets/main_image.jpg">
-      </div>
-      <div class="text-container">
-        <h1><br>Products</h1>
-        <p>We sell products handmade by us, a group of high school students.
-           From stylish stickers to encourage your reusable water bottle usage to
-           reusable shopping bags, our products will help you reduce your carbon footprint.
-           <br><br>100% of funds earned goes to organizations saving the environment.
-         </p>
-         <button class="learn-more">Shop Now</button>
-       </div>
-    </div>
+
+
+
 
 
       <div class="what-we-do">
