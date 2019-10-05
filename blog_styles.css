@@ -38,13 +38,23 @@ body{
   text-align: center;
   color: green;
   font-size: 35px;
+  margin-bottom: 10px;
 }
-p{
+.post-para{
   font-family: "Roboto", sans-serif;
   font.size: 0.9em;
-  width: 65%;
+  width: 75%;
   margin: auto;
   padding: 20px;
   background-color: rgba(0,206,209,0.2);
+  margin-bottom: 50px;
+}
+#flyer-img{
+  display: block;
+  width: 45%;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: -30px;
   margin-bottom: 50px;
 }

@@ -51,8 +51,6 @@ https://twloha.com/
 -->
 
 
-
-
     <div class="hero-image">
       <div class="hero-text">
           <h1 id="first-line">Campaign dedicated to improving the environment</h1>
@@ -69,39 +67,17 @@ Learn
 Get Involved
  - should be added to the navigation bar
 
-
-Idea: width: 50% for 2 panels, one side with image of selling or campaigning
-and the other saying designs for the environment or some slogan
-
-
 -->
-
-
 
     <div class="section">
       <h1 class="headers"><br>Mission Statement</h1>
       <p id="line">____________________________</p>
       <p id="mission-para">We hope to engage our community and beyond to contribute to protecting our environment.
          As a group of high school students based in Massachusetts, our campaign hopes to encourage youth to be
-         leaders in their community and engage in environmental activism.
+         leaders in their community and understand environmental issues.
          100% of our fundraising profits goes towards helping the environment.
-
-<!--
-         Our mission is to engage our community and beyond in protecting the environment through environmental awareness
-         and fundraising. As a student-based campaign in Massachusetts, we seek to encourage youth to be leaders in their
-         communities and get involved in environmental activism.
-
--->
       </p>
-      <!-- We are a group of students based in Massachusetts.
-
-
-      <p>Art for a better future</p>
--->
     </div>
-
-
-
 
       <div class="container">
         <div class="img">
@@ -109,8 +85,8 @@ and the other saying designs for the environment or some slogan
         </div>
         <div class="text">
           <h1><br>Why Sustainability is Important</h1>
-          <p>Why Sustainability is Important</p>
-          <button class="learn-more">Learn More</button>
+          <p>Life on earth depends on what we do. Check our resources</p>
+          <button class="learn-more" onclick="window.open('learn.php','_self');">Learn More</button>
         </div>
       </div>
 
@@ -124,57 +100,45 @@ and the other saying designs for the environment or some slogan
              From stylish stickers to encourage your reusable water bottle usage to
              reusable shopping bags, our products will help you reduce your carbon footprint.
              <br><br>100% of funds earned goes to organizations saving the environment.</p>
-          <button class="learn-more">Learn More</button>
+             <button class="learn-more" onclick="window.open('about.php','_self');">About</button>
         </div>
       </div>
 
 
-
-
-
-
-
-      <div class="what-we-do">
-        <div class="image-container">
-          <img src="assets/leafed_plants.jpg">
+      <div class="container">
+        <div class="img">
+          <img src="assets/leafed_plants_square.jpg" alt="leafed plants photo">
         </div>
-        <div class="text-container">
+        <div class="text">
           <h1><br>What We Do</h1>
-          <ul>
-            <li>Fundraise</li>
-            <li>Provide Educational Resources</li>
-            <li>Local Events/Conferences</li>
-            <li>Coming Soon: High School Ambassadors Program</li>
-          <ul>
           <p>
+            We hope to raise awareness of environmental issues through
+            our fundraisers. We are currently working on creating environmental
+            education resources and advocating for a more sustainable lifestyle through
+            social media. In the future, we hope to host a local conference for high
+            school students.
             To see what we have been doing lately, check out our blog!
            </p>
-           <button class="learn-more">Blog</button>
+           <button class="learn-more" onclick="window.open('blog.php','_self');">Blog</button>
          </div>
       </div>
 
-
-
-
-    <div class="what-we-do">
-      <div class="image-container">
-        <img src="assets/lakeview.jpg">
+    <div class="container">
+      <div class="img">
+        <img src="assets/lakeview_square.jpg" alt="lakeview photo">
       </div>
-      <div class="text-container">
+      <div class="text">
         <h1><br>Get Involved</h1>
         <p>
-          We need your help in our success. Become a volunteer or a supporter today!
-
+          Subscribe to our newsletter and get the latest updates by following
+          our social media accounts. Check out the bottom of the page!
+          <br><br>
+          In addition, feel free to contact us for more information about volunteering
+          opportunities, product requests, and any questions.
          </p>
-         <button class="learn-more">Contact</button>
+         <button class="learn-more" onclick="window.open('contact.php','_self');">Contact</button>
        </div>
     </div>
-
-
-
-
-
-
 
     <?php include 'footer.php' ?>
 

@@ -9,10 +9,8 @@
     <link href="https://fonts.googleapis.com/css?family=Merriweather|Oswald|Pacifico|Roboto|Work+Sans&display=swap" rel="stylesheet">
   </head>
   <body>
-  <p id="footer-title">Sustainable One</p>
 
 
-  
   <!-- Begin Mailchimp Signup Form -->
   <link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
   <style type="text/css">
@@ -36,15 +34,24 @@
 
 
   <div class="social-media-logos">
-    <a href="https://www.instagram.com" target="_blank">
+    <a href="https://www.facebook.com" target="_blank">
+      <img src="assets/FacebookLogo.svg" class="logo" id="facebook-logo" alt="facebook-logo">
+    </a>
+    <a href="https://www.instagram.com/sustainable.one/?hl=en" target="_blank">
       <img src="assets/CanvaInstagramLogo.svg" class="logo" alt="instagram-logo">
     </a>
-    <a href="https://www.twitter.com" target="_blank">
+    <a href="https://twitter.com/SustainableOne1" target="_blank">
       <img src="assets/CanvaTwitterLogo.svg" class="logo" alt="twitter-logo">
     </a>
     <a href="https://www.youtube.com" target="_blank">
       <img src="assets/CanvaYouTubeLogo.svg" class="logo" alt="youtube-logo">
     </a>
   </div>
+
+
+  <p id="footer-title">Sustainable One 2019</p>
+
+
+
 </body>
 </html>

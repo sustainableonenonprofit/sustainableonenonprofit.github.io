@@ -155,7 +155,6 @@ body, html {
  }
 
 
-
 #first-line{
     font-family: 'Open Sans Condensed', sans-serif;
 }
@@ -226,6 +225,7 @@ body, html {
   text-align: center;
   color: #741b47;
   margin-bottom: 0px;
+  margin-top: -25px;
 }
 .section{
   font-family: "Roboto", sans-serif;
@@ -243,56 +243,10 @@ body, html {
   color: #3cc9ad;
 }
 #mission-para{
-  margin-bottom: 75px;
+  margin-bottom: 70px;
 }
 
 
-
-.what-we-do{
-  color: black;
-  text-align: left;
-}
-.image-container{
-  width: 45%;
-  float: left;
-  position: relative;
-  height: 450px;
-  /*vertical-align: middle;*/
-  background-color: #f0f3f4;
-}
-.image-container img{
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 390px;
-  height: 390px;
-  padding: 10px;
-  border-radius: 50%;
-}
-.text-container{
-  width: 55%;
-  float: left;
-  position: relative;
-  height: 450px;
-  background-color: #f0f3f4;
-}
-.text-container h1{
-  color: #3568de;
-  font-family: 'Fira Sans', sans-serif;
-  padding: 0px 65px 0px 0px;
-}
-.text-container p{
-   font-size: 1.2em;
-   margin: auto;
-   padding: 30px 65px 30px 0px;
-   font-family: 'Abel', sans-serif;
-   color: #35393b;
-}
-.text-container li{
-   font-size: 1.2em;
-   font-family: 'Abel', sans-serif;
-   color: #35393b;
-}
 
 
 /*button*/
@@ -307,6 +261,7 @@ body, html {
   color: purple;
   display: block;
   text-transform: uppercase;
+  margin: 15px 0px;
 }
 .learn-more:hover{
   cursor: pointer;
@@ -320,10 +275,7 @@ body, html {
 /*flexbox*/
 .container{
   display: flex;
-  justify-content: space-evenly;
-  /*
   justify-content: center;
-  */
   align-items: center;
   flex-wrap: wrap;
   background-color: #f0f3f4;
@@ -340,7 +292,7 @@ body, html {
 .text{
   padding: 10px;
   margin-left: 25px;
-
+  width: 57%;
 }
 .text p{
    font-size: 1.1em;
@@ -352,4 +304,12 @@ body, html {
   color: #3568de;
   font-family: 'Fira Sans', sans-serif;
   padding: 0px 0px 20px 0px;
+}
+@media screen and (max-width: 975px) {
+ .text{
+   width: 80%;
+ }
+ .img img{
+   margin-bottom: -25px;
+ }
 }
