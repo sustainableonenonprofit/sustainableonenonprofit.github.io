@@ -84,7 +84,9 @@ Get Involved
         </div>
         <div class="text">
           <h1><br>Why Sustainability is Important</h1>
-          <p>Life on earth depends on what we do. Check our resources</p>
+          <p>Our actions matter. Our lives are connected to the nature around us.
+            
+          </p>
           <button class="learn-more" onclick="window.open('learn.php','_self');">Learn More</button>
         </div>
       </div>
