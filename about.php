@@ -57,7 +57,7 @@
           <li><b>Treasurer: </b>Drema Uttecht</li>
           <li><b>Head of Logistics: </b>Serena Pan</li>
           <li><b>Head of Social Media: </b>Zoe Lu</li>
-          <li><b>Website Developer: </b>Kelly Ly</li>
+          <li><b>Secretary & Website Dev: </b>Kelly Ly</li>
         </ul>
       </div>
     </div>

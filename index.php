@@ -80,12 +80,12 @@ Get Involved
 
       <div class="container">
         <div class="img">
-          <img src="assets/quarry_square.jpg" alt="quarry photo">
+          <img src="assets/grass_field.jpg" alt="grass field photo">
         </div>
         <div class="text">
           <h1><br>Why Sustainability is Important</h1>
           <p>Our actions matter. Our lives are connected to the nature around us.
-            
+
           </p>
           <button class="learn-more" onclick="window.open('learn.php','_self');">Learn More</button>
         </div>

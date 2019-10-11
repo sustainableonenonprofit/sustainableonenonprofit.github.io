@@ -1,3 +1,9 @@
+<!--
+
+
+
+-->
+
 <!DOCTYPE html>
 <html>
   <head>
@@ -11,14 +17,19 @@
   <body>
     <?php include 'header_reg.php' ?>
 
+    <div class="hero-image">
+      <div class="hero-text">
+        <h1 id="page-name">Learn</h1>
+      </div>
+    </div>
 
-    <h1>How you can help the environment with Sustainable One</h1>
-    <ul>
-      <li>Subscribe to our newsletter - Stay updated! Learn some sustainability facts</li>
-      <li>Voice your opinion. That's what we're hoping to do with our youth movement.
-          Vote, and encourage others to. Write. Want to be interviewed? Use our contact form.
-          </li>
-    </ul>
+    <div class="online-resources">
+      <h2>Online Resources</h2>
+      <p>Carbon Footprint Calculator</p>
+      <p>Environment Game</p>
+    </div>
 
+
+    <?php include 'footer.php' ?>
     </body>
   </html>
