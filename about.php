@@ -44,9 +44,6 @@
     -->
       <h3>Why are you called Sustainable One?</h3>
       <p>In our efforts to save the Earth, we hope to reduce our carbon footprint to be one Earth and some stuff.</p>
-      <!-- We often need volunteers for our events or ideas as to what events we should fundraise at.
-        If you have any suggestions, feel free to use the contact form on our website or email us directly at sustainable.one1@gmail.com .
-        Any help is definitely appreciated!-->
     </div>
 
     <div class="container">

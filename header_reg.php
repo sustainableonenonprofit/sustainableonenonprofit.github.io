@@ -14,7 +14,6 @@
             <li><a href="about.php">About</a></li>
             <li><a href="learn.php">Learn</a></li>
             <li><a href="store.php">Store</a></li>
-            <li><a href="index.php">Get Involved</a></li>
             <li><a href="blog.php">Blog</a></li>
             <li><a href="contact.php">Contact</a></li>
           </ul>
