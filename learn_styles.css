@@ -9,7 +9,7 @@ body, html {
 }
 body{
   margin-top: 100px;
-  background-color: #f2feff;
+  background-color: #f0fbff;
 }
 .hero-image{
   background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url("assets/learn_banner.png");
@@ -40,4 +40,57 @@ body{
 }
 #page-name{
     font-family: "Playfair Display", serif;
+}
+
+
+.intro{
+  margin-bottom: 30px;
+}
+
+
+section{
+   display: flex;
+   justify-content: center;
+   flex-wrap: wrap
+}
+.media{
+  text-align: center;
+  position: relative;
+  margin-right: 8px;
+}
+.media img{
+  width: 250px;
+  height: auto;
+  border-radius: 5%;
+  filter: brightness(42%);
+  transition: 0.2s all ease;
+}
+.media img:hover{
+  transform: scale(0.98);
+  transition: 0.5s all ease;
+}
+.text{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.topic{
+  font-size: 1.1em;
+  margin-bottom: 15px;
+  margin-top: -45px;
+}
+.name{
+  color: white;
+  font-size: 2.0em;
+  font-weight: bold;
+}
+.article{
+  color: #c7e7f2;
+}
+.infographic{
+  color: #e4c5f0;
+}
+.online-resource{
+  color: #f7c8e1;
 }

@@ -12,7 +12,7 @@
     <meta name="description" content="Sustainable One is">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="learn_styles.css">
-    <link href="https://fonts.googleapis.com/css?family=Playfair+Display:700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Merriweather|Playfair+Display:700&display=swap" rel="stylesheet">
   </head>
   <body>
     <?php include 'header_reg.php' ?>
@@ -23,21 +23,30 @@
       </div>
     </div>
 
-    <div class="articles">
-      <h2>Articles</h2>
-    </div>
-
-    <div class="infographics">
-      <h2>Infographics</h2>
+    <div class="intro">
+      <h3>Check out articles, infographics, and links to other online resources!</h3>
     </div>
 
 
-    <div class="online-resources">
-      <h2>Online Resources</h2>
-      <p>Carbon Footprint Calculator</p>
-      <p>Environment Game</p>
+    <section>
+
+    <div class="media">
+      <a href="#"><img src="assets/learn_assets/tree_sea.jpg"></a>
+      <div class="text">
+        <p class="topic article">ARTICLE<br>___________</p>
+        <p class="name">Brief History of the EPA</p>
+      </div>
     </div>
 
+
+    <div class="media">
+      <a href="#"><img src="assets/learn_assets/sit_grass.jpg"></a>
+      <div class="text">
+        <p class="topic infographic">INFOGRAPHIC<br>___________</p>
+        <p class="name">Jellyfish and Stuff</p>
+      </div>
+    </div>
+  </section>
 
 
 
