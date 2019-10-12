@@ -45,13 +45,15 @@ body{
 
 .intro{
   margin-bottom: 30px;
+  text-align: center;
 }
 
 
 section{
    display: flex;
    justify-content: center;
-   flex-wrap: wrap
+   flex-wrap: wrap;
+   margin-bottom: 50px;
 }
 .media{
   text-align: center;
@@ -89,7 +91,7 @@ section{
   color: #c7e7f2;
 }
 .infographic{
-  color: #e4c5f0;
+  color: #cc96f2;
 }
 .online-resource{
   color: #f7c8e1;

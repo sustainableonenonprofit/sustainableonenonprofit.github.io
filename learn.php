@@ -1,6 +1,6 @@
 <!--
 
-
+Images are 4000x6000 pixels
 
 -->
 
@@ -38,7 +38,6 @@
       </div>
     </div>
 
-
     <div class="media">
       <a href="#"><img src="assets/learn_assets/sit_grass.jpg"></a>
       <div class="text">
@@ -46,6 +45,48 @@
         <p class="name">Jellyfish and Stuff</p>
       </div>
     </div>
+
+
+    <div class="media">
+      <a href="#"><img src="assets/learn_assets/road_mtns.jpg"></a>
+      <div class="text">
+        <p class="topic infographic">INFOGRAPHIC<br>___________</p>
+        <p class="name">Apple Cinnamon Toast Crunch</p>
+      </div>
+    </div>
+
+
+    <div class="media">
+      <a href="#"><img src="assets/learn_assets/mtn_mist.png"></a>
+      <div class="text">
+        <p class="topic article">ARTICLE<br>___________</p>
+        <p class="name">Coconut Clusters</p>
+      </div>
+    </div>
+
+    <div class="media">
+      <a href="#"><img src="assets/learn_assets/stars_reflecting.jpg"></a>
+      <div class="text">
+        <p class="topic online-resource">ONLINE RESOURCE<br>___________</p>
+        <p class="name">Organic Passion Fruit</p>
+      </div>
+    </div>
+
+    <div class="media">
+      <a href="#"><img src="assets/learn_assets/lake_mist.png"></a>
+      <div class="text">
+        <p class="topic article">ARTICLE<br>___________</p>
+        <p class="name">Matcha Mango Tea</p>
+      </div>
+    </div>
+    <div class="media">
+      <a href="#"><img src="assets/learn_assets/tropical_trees.png"></a>
+      <div class="text">
+        <p class="topic article">ARTICLE<br>___________</p>
+        <p class="name">Dragonfruit Sorbet</p>
+      </div>
+    </div>
+
   </section>
 
 

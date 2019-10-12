@@ -29,11 +29,11 @@ https://twloha.com/
     <div id="myNav" class="overlay">
       <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
       <div class="overlay-content">
-        <a href="#">About</a>
-        <a href="#">Learn</a>
-        <a href="#">Store</a>
-        <a href="#">Blog</a>
-        <a href="#">Contact</a>
+        <a href="about.php">About</a>
+        <a href="learn.php">Learn</a>
+        <a href="store.php">Store</a>
+        <a href="blog.php">Blog</a>
+        <a href="contact.php">Contact</a>
       </div>
     </div>
 
