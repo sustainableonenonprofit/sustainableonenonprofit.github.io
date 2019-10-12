@@ -21,8 +21,22 @@ https://twloha.com/
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="styles.css">
     <link href="https://fonts.googleapis.com/css?family=Abel|Assistant|Cuprum|Fira+Sans|Merriweather|Muli|Open+Sans+Condensed:300|Oswald|Pacifico|Roboto|Work+Sans&display=swap" rel="stylesheet">
+    <script src="script.js"></script>
   </head>
   <body>
+
+
+    <div id="myNav" class="overlay">
+      <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+      <div class="overlay-content">
+        <a href="#">About</a>
+        <a href="#">Learn</a>
+        <a href="#">Store</a>
+        <a href="#">Blog</a>
+        <a href="#">Contact</a>
+      </div>
+    </div>
+
     <header>
         <a href="index.php"><img src="assets/logo_alpha_new.png" alt="logo"></a>
           <ul>
@@ -34,6 +48,9 @@ https://twloha.com/
           </ul>
           <p><span style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776;</span></p>
     </header>
+
+
+
 
     <div class="hero-image">
       <div class="hero-text">
@@ -70,7 +87,6 @@ Get Involved
         <div class="text">
           <h1><br>Why Sustainability is Important</h1>
           <p>Our actions matter. Our lives are connected to the nature around us.
-
           </p>
           <button class="learn-more" onclick="window.open('learn.php','_self');">Learn More</button>
         </div>
