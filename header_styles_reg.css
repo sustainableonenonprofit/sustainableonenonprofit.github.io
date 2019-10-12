@@ -2,11 +2,37 @@
   margin: 0;
   padding: 0;
 }
+
+/*Switch between two header styles depending on size*/
+@media screen and (max-width: 800px) {
+  header ul{
+    display: none;
+    visibility: hidden;
+  }
+
+}
+@media screen and (min-width: 801px) {
+  header p{
+    display: none;
+    visibility: hidden;
+  }
+}
+
+
+
 header img{
   height: 100px;
   width: auto;
   margin-left: 30px;
   margin-right: 5px;
+}
+@media screen and (max-width: 500px){
+  header img{
+    height: 80px;
+    width: auto;
+    margin-left: 10px;
+    margin-top: 10px;
+  }
 }
 header{
   background-color: white;
@@ -29,6 +55,12 @@ header li{
 header li:first-child{
   margin-left: 50px;
 }
+header li{
+  margin: 18px;
+}
+header li:first-child{
+  margin-left: 50px;
+}
 header li a{
   text-decoration: none;
   color: black;
@@ -38,3 +70,64 @@ header li a{
 header li a:hover{
   color: #cc00ff;
 }
+header p{
+  position: absolute;
+  right: 30px;
+  color: black;
+}
+
+
+
+/*Mobile Nav Bar */
+
+  .overlay {
+    height: 0%;
+    width: 100%;
+    position: fixed;
+    z-index: 2;
+    top: 0;
+    left: 0;
+    background-color: rgb(0,0,0);
+    background-color: rgba(0,0,0, 0.9);
+    overflow-y: hidden;
+    transition: 0.5s;
+  }
+
+  .overlay-content {
+    position: relative;
+    top: 15%;
+    width: 100%;
+    text-align: center;
+    margin-top: 30px;
+  }
+
+  .overlay a {
+    padding: 8px;
+    text-decoration: none;
+    font-size: 33px;
+    color: #cce0da;
+    display: block;
+    transition: 0.3s;
+    font-family: 'Lato', sans-serif;
+  }
+
+  .overlay a:hover, .overlay a:focus {
+    color: #cc00ff;
+  }
+
+  .overlay .closebtn {
+    position: absolute;
+    top: 5px;
+    right: 15px;
+    font-size: 60px;
+  }
+
+  @media screen and (max-height: 450px) {
+    .overlay {overflow-y: auto;}
+    .overlay a {font-size: 20px}
+    .overlay .closebtn {
+    font-size: 40px;
+    top: 15px;
+    right: 35px;
+    }
+  }

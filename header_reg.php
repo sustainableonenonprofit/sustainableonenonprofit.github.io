@@ -7,16 +7,29 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="header_styles_reg.css">
     <link href="https://fonts.googleapis.com/css?family=Assistant|Merriweather&display=swap" rel="stylesheet">
+    <script src="header_reg_script.js"></script>
   <body>
-    <header>
-        <a href="index.php"><img src="assets/logo_alpha.png" alt="logo"></a>
-          <ul>
-            <li><a href="about.php">About</a></li>
-            <li><a href="learn.php">Learn</a></li>
-            <li><a href="store.php">Store</a></li>
-            <li><a href="blog.php">Blog</a></li>
-            <li><a href="contact.php">Contact</a></li>
-          </ul>
-    </header>
+      <div id="myNav" class="overlay">
+        <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+        <div class="overlay-content">
+          <a href="#">About</a>
+          <a href="#">Learn</a>
+          <a href="#">Store</a>
+          <a href="#">Blog</a>
+          <a href="#">Contact</a>
+        </div>
+      </div>
+
+      <header>
+          <a href="index.php"><img src="assets/logo_alpha.png" alt="logo"></a>
+            <ul>
+              <li><a href="about.php">About</a></li>
+              <li><a href="learn.php">Learn</a></li>
+              <li><a href="store.php">Store</a></li>
+              <li><a href="blog.php">Blog</a></li>
+              <li><a href="contact.php">Contact</a></li>
+            </ul>
+            <p><span style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776;</span></p>
+      </header>
 </body>
 </html>
