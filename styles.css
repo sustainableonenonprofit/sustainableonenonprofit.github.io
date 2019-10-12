@@ -61,6 +61,11 @@ body, html {
   header li a:hover{
     color: #cc00ff;
   }
+  header p{
+    position: absolute;
+    right: 30px;
+    color: white;
+  }
 
 
 

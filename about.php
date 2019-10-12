@@ -29,7 +29,7 @@
       </p>
       <h3>Do you have an online store?</h3>
       <p>We are currently working on setting up an online store! We will update you through our social media, newsletter,
-        and website blog.
+        and website blog once we get that working.
       </p>
       <h3>What do you do with the money you fundraise?</h3>
       <p>100% of net profits earned from our fundraising is donated to organizations that protect our environment.
@@ -61,9 +61,6 @@
         </ul>
       </div>
     </div>
-
-
-
 
 
     <?php include 'footer.php' ?>

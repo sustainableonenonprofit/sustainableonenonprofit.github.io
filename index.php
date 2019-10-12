@@ -32,23 +32,8 @@ https://twloha.com/
             <li><a href="blog.php">Blog</a></li>
             <li><a href="contact.php">Contact</a></li>
           </ul>
+          <p><span style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776;</span></p>
     </header>
-
-    <!-- Top Navigation Menu -->
-    <!--
-    <div class="topnav">
-      <a href="#home" class="active"><img src="assets/logo_line_alpha.png"></img></a>
-      <div id="myLinks">
-        <a href="#news">News</a>
-        <a href="#contact">Contact</a>
-        <a href="#about">About</a>
-      </div>
-      <a href="javascript:void(0);" class="icon" onclick="myFunction()">
-        <i class="fa fa-bars"></i>
-      </a>
-    </div>
--->
-
 
     <div class="hero-image">
       <div class="hero-text">
