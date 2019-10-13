@@ -9,17 +9,13 @@
     <link href="https://fonts.googleapis.com/css?family=Merriweather|Playfair+Display:700&display=swap" rel="stylesheet">
   </head>
   <body>
-    <!--
-    <div class="hero-image">
-      <div class="hero-text">
-        <h1 id="page-name">Learn</h1>
-      </div>
-    </div>
-  -->
     <?php include 'header_reg.php' ?>
     <img src="assets/article_assets/mtns_trees_bluesky.jpg" alt="mountains, trees, blue sky photo" class="article-photo">
     <p class="back"><a href="learn.php">&#8592; Back to Learn</a></p>
-    <h1 class="article-title">Brief History of the Environmental Protection Agency (EPA)</h1>
+    <div class="article">
+      <h1 class="article-title">Brief History of the Environmental Protection Agency (EPA)</h1>
+      <p>By Zoe Lu | Published October 12, 2019</p>
+    </div>
     <div class="content">
       <h4>The Development of the EPA<br></h4>
       <p>
