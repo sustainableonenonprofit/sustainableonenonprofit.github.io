@@ -29,62 +29,73 @@ Images are 4000x6000 pixels
 
 
     <section>
-
     <div class="media">
-      <a href="#"><img src="assets/learn_assets/tree_sea.jpg"></a>
+      <a href="epa_article.php">
+      <img src="assets/learn_assets/tree_sea.jpg">
       <div class="text">
         <p class="topic article">ARTICLE<br>___________</p>
         <p class="name">Brief History of the EPA</p>
       </div>
+      </a>
     </div>
 
     <div class="media">
-      <a href="#"><img src="assets/learn_assets/sit_grass.jpg"></a>
+      <a href="#">
+      <img src="assets/learn_assets/sit_grass.jpg">
       <div class="text">
         <p class="topic infographic">INFOGRAPHIC<br>___________</p>
         <p class="name">Jellyfish and Stuff</p>
       </div>
+      </a>
     </div>
 
-
     <div class="media">
-      <a href="#"><img src="assets/learn_assets/road_mtns.jpg"></a>
+      <a href="#">
+      <img src="assets/learn_assets/road_mtns.jpg">
       <div class="text">
         <p class="topic infographic">INFOGRAPHIC<br>___________</p>
         <p class="name">Apple Cinnamon Toast Crunch</p>
       </div>
+      </a>
     </div>
 
-
     <div class="media">
-      <a href="#"><img src="assets/learn_assets/mtn_mist.png"></a>
+      <a href="#">
+      <img src="assets/learn_assets/mtn_mist.png">
       <div class="text">
         <p class="topic article">ARTICLE<br>___________</p>
         <p class="name">Coconut Clusters</p>
       </div>
+      </a>
     </div>
 
     <div class="media">
-      <a href="#"><img src="assets/learn_assets/stars_reflecting.jpg"></a>
+      <a href="#">
+      <img src="assets/learn_assets/stars_reflecting.jpg">
       <div class="text">
         <p class="topic online-resource">ONLINE RESOURCE<br>___________</p>
         <p class="name">Organic Passion Fruit</p>
       </div>
+      </a>
     </div>
 
     <div class="media">
-      <a href="#"><img src="assets/learn_assets/lake_mist.png"></a>
+      <a href="#">
+      <img src="assets/learn_assets/lake_mist.png">
       <div class="text">
         <p class="topic article">ARTICLE<br>___________</p>
         <p class="name">Matcha Mango Tea</p>
       </div>
+      </a>
     </div>
     <div class="media">
-      <a href="#"><img src="assets/learn_assets/tropical_trees.png"></a>
+      <a href="#">
+      <img src="assets/learn_assets/tropical_trees.png">
       <div class="text">
         <p class="topic article">ARTICLE<br>___________</p>
         <p class="name">Dragonfruit Sorbet</p>
       </div>
+      </a>
     </div>
 
   </section>
