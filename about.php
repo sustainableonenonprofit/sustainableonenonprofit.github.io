@@ -20,7 +20,7 @@
 
     <div class="faq">
       <h3>History of <i>Sustainable One</i></h3>
-      <p><i>Sustainable One</i> is a nonprofit that was founded in 2019 by Michelle Ly, a high school student from Massachusetts.
+      <p><i>Sustainable One</i> is a campaign (and hopefully soon a nonprofit!) founded in 2019 by Michelle Ly, a high school student from Massachusetts.
         <i>Sustainable One</i> is composed of a team of students passionate about saving the environment.
       </p>
       <h3>Where can I purchase your items?</h3>
@@ -44,6 +44,8 @@
     -->
       <h3>Why are you called Sustainable One?</h3>
       <p>In our efforts to save the Earth, we hope to reduce our carbon footprint to be one Earth and some stuff.</p>
+      <h3>I have an inquiry, suggestion, or question not listed above</h3>
+      <p>Contact us through our <a href="contact.php">contact form</a>!</p>
     </div>
 
     <div class="container">

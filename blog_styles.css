@@ -59,10 +59,15 @@ body{
 }
 #flyer-img{
   display: block;
-  width: 45%;
+  width: 55%;
   height: auto;
   margin-left: auto;
   margin-right: auto;
   margin-top: -30px;
   margin-bottom: 50px;
+}
+@media screen and (max-width: 800px){
+  #flyer-img{
+    width: 70%;
+  }
 }

@@ -76,7 +76,7 @@ Get Involved
       <p id="mission-para">We hope to engage our community and beyond to contribute to protecting our environment.
          As a group of high school students based in Massachusetts, our campaign hopes to encourage youth to be
          leaders in their community and understand environmental issues.
-         100% of our fundraising profits goes towards helping the environment.
+         100% of our fundraising profits go towards helping the environment.
       </p>
     </div>
 
