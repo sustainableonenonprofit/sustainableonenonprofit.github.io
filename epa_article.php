@@ -18,7 +18,7 @@
   -->
     <?php include 'header_reg.php' ?>
     <img src="assets/article_assets/mtns_trees_bluesky.jpg" alt="mountains, trees, blue sky photo" class="article-photo">
-    <p class="back"><a href="../learn.php>"&#8592; Back to Learn</a></p>
+    <p class="back"><a href="learn.php">&#8592; Back to Learn</a></p>
     <h1 class="article-title">Brief History of the Environmental Protection Agency (EPA)</h1>
     <div class="content">
       <h4>The Development of the EPA<br></h4>
