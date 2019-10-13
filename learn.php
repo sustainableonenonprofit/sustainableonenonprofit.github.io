@@ -38,6 +38,24 @@ Images are 4000x6000 pixels
       </div>
       </a>
     </div>
+    <div class="media">
+      <a href="foodwaste_article.php">
+      <img src="assets/learn_assets/lake_mist.png">
+      <div class="text">
+        <p class="topic article">ARTICLE<br>___________</p>
+        <p class="name">A Solution to Food Waste</p>
+      </div>
+      </a>
+    </div>
+    <div class="media">
+      <a href="#">
+      <img src="assets/learn_assets/tree_sea.jpg">
+      <div class="text">
+        <p class="topic article">ARTICLE<br>___________</p>
+        <p class="name">Matcha Mango Tea</p>
+      </div>
+      </a>
+    </div>
 
     <div class="media">
       <a href="#">
@@ -79,15 +97,7 @@ Images are 4000x6000 pixels
       </a>
     </div>
 
-    <div class="media">
-      <a href="#">
-      <img src="assets/learn_assets/lake_mist.png">
-      <div class="text">
-        <p class="topic article">ARTICLE<br>___________</p>
-        <p class="name">Matcha Mango Tea</p>
-      </div>
-      </a>
-    </div>
+
     <div class="media">
       <a href="#">
       <img src="assets/learn_assets/tropical_trees.png">
