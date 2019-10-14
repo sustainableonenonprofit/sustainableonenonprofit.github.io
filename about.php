@@ -6,7 +6,7 @@
     <meta name="description" content="Sustainable One is">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="about_styles.css">
-    <link href="https://fonts.googleapis.com/css?family=Abel|Playfair+Display:700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Abel|Pavanam|Playfair+Display:700|Snippet&display=swap" rel="stylesheet">
   </head>
   <body>
     <?php include 'header_reg.php' ?>
@@ -19,7 +19,7 @@
     <img src="assets/flower_elephantIsland.jpg" alt="flower elephant" id="elephant">
 
     <div class="faq">
-      <h3>History of <i>Sustainable One</i></h3>
+      <h3>History of Sustainable One</h3>
       <p><i>Sustainable One</i> is a campaign (and hopefully soon a nonprofit!) founded in 2019 by Michelle Ly, a high school student from Massachusetts.
         <i>Sustainable One</i> is composed of a team of students passionate about saving the environment.
       </p>

@@ -49,7 +49,7 @@ body{
 .faq h3{
   color: #24b5a2;
   font-size: 1.35em;
-  font-family: "Abel", sans-serif;
+  font-family: "Snippet", sans-serif;
 }
 .faq h1,h3{
     text-align: center;
@@ -59,16 +59,16 @@ body{
   margin-left: 15%;
   margin-right: 15%;
 }
-.faq p,a{
+.faq p{
     margin-bottom: 30px;
     font-size: 1.15em;
     line-height: 1.3;
-    font-family: 'Abel', sans-serif;
+    font-family: 'Pavanam', sans-serif;
 }
 .faq a, .faq a:visited{ color: blue; }
 
 .faq i{
-  font-family: 'Abel', sans-serif;
+  font-family: 'Pavanam', sans-serif;
 }
 
 
