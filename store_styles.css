@@ -63,9 +63,9 @@ section img{
 */
 
 section img{
-   width: 300px;
-   max-width: 100%;
-   max-height: 300px;
+   width: 100%;
+   max-width: 300px;
+   height: auto;
    transition: 0.2s all ease;
 }
 

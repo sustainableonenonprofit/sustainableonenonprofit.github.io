@@ -23,30 +23,27 @@
 
       <section>
         <div class="media">
-          <img src="https://images.unsplash.com/photo-1524413840807-0c3cb6fa808d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80">
+          <img src="assets/shop_assets/bear_sticker.jpg">
           <p>Option 1</p>
         </div>
 
         <div class="media">
-          <img src="https://images.unsplash.com/photo-1522383225653-ed111181a951?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=755&q=80">
+          <img src="assets/shop_assets/narwhal_sticker.jpg">
           <p>Option 2<br>$25</p>
         </div>
 
         <div class="media">
-          <img src="https://images.unsplash.com/photo-1433259651738-0e74537aa8b5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80">
+          <img src="assets/shop_assets/unicorn_sticker.jpg">
           <p>Option 3</p>
         </div>
 
         <div class="media">
-          <img src="https://images.unsplash.com/photo-1498708265414-b4de18c6aeef?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80s">
+          <img src="assets/shop_assets/panda_sticker.jpg">
           <p>Option 4</p>
         </div>
 
-
-
-
         <div class="media">
-          <img src="https://images.unsplash.com/photo-1522383225653-ed111181a951?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=755&q=80">
+          <img src="assets/shop_assets/elephant_sticker.jpg">
         </div>
 
         <div class="media">
