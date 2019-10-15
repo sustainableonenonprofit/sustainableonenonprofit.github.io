@@ -16,55 +16,36 @@
       </div>
     </div>
 
+    <h2 id="store-access">Click here to directly access our store</h3>
 
+    <section>
+      <div class="media">
+        <img src="assets/shop_assets/elephant_sticker.jpg">
+        <p>Elephant Laptop Sticker<br>$3 + shipping</p>
+      </div>
 
+      <div class="media">
+        <img src="assets/shop_assets/bear_sticker.jpg">
+        <p>Bear Laptop Sticker<br>$3 + shipping</p>
+      </div>
 
+      <div class="media">
+        <img src="assets/shop_assets/narwhal_sticker.jpg">
+        <p>Narwhal Laptop Sticker<br>$3 + shipping</p>
+      </div>
 
+      <div class="media">
+        <img src="assets/shop_assets/unicorn_sticker.jpg">
+        <p>Unicorn Laptop Sticker<br>$3 + shipping</p>
+      </div>
 
-      <section>
-        <div class="media">
-          <img src="assets/shop_assets/bear_sticker.jpg">
-          <p>Option 1</p>
-        </div>
-
-        <div class="media">
-          <img src="assets/shop_assets/narwhal_sticker.jpg">
-          <p>Option 2<br>$25</p>
-        </div>
-
-        <div class="media">
-          <img src="assets/shop_assets/unicorn_sticker.jpg">
-          <p>Option 3</p>
-        </div>
-
-        <div class="media">
-          <img src="assets/shop_assets/panda_sticker.jpg">
-          <p>Option 4</p>
-        </div>
-
-        <div class="media">
-          <img src="assets/shop_assets/elephant_sticker.jpg">
-        </div>
-
-        <div class="media">
-          <img src="https://images.unsplash.com/photo-1433259651738-0e74537aa8b5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80">
-        </div>
-
-        <div class="media">
-          <img src="https://images.unsplash.com/photo-1498708265414-b4de18c6aeef?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80s">
-        </div>
-
-        <div class="media">
-          <img src="https://images.unsplash.com/photo-1524413840807-0c3cb6fa808d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80">
-        </div>
-
-      </section>
-
-
-
+      <div class="media">
+        <img src="assets/shop_assets/panda_sticker.jpg">
+        <p>Panda Laptop Sticker<br>$3 + shipping</p>
+      </div>
+    </section>
 
     <?php include 'footer.php' ?>
-
 
   </body>
 </html>
