@@ -31,7 +31,6 @@
       <p>“Origin of the National Park Idea (U.S. National Park Service).” National Parks Service, U.S. Department of the Interior, www.nps.gov/articles/npshistory-origins.htm.</p>
       <p>“The Origins of EPA.” EPA, Environmental Protection Agency, 19 Nov. 2018, www.epa.gov/history/origins-epa.</p>
       <p>“Quick History of the National Park Service (U.S. National Park Service).” National Parks Service, U.S. Department of the Interior, www.nps.gov/articles/quick-nps-history.htm#targetText=On August 25, 1916, President,those yet to be established.</p>
-
     </div>
     <?php include 'footer.php' ?>
   <body>
