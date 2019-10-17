@@ -1,7 +1,5 @@
 <!--
-
 Images are 4000x6000 pixels
-
 -->
 
 <!DOCTYPE html>
@@ -27,7 +25,6 @@ Images are 4000x6000 pixels
       <h3>Check out articles, infographics, and links to other online resources!</h3>
     </div>
 
-
     <section>
     <div class="media">
       <a href="epa_article.php">
@@ -49,7 +46,7 @@ Images are 4000x6000 pixels
     </div>
     <div class="media">
       <a href="#">
-      <img src="assets/learn_assets/tree_sea.jpg">
+      <img src="assets/learn_assets/tropical_trees.jpg">
       <div class="text">
         <p class="topic article">ARTICLE<br>___________</p>
         <p class="name">Matcha Mango Tea</p>
@@ -97,20 +94,7 @@ Images are 4000x6000 pixels
       </a>
     </div>
 
-
-    <div class="media">
-      <a href="#">
-      <img src="assets/learn_assets/tropical_trees.png">
-      <div class="text">
-        <p class="topic article">ARTICLE<br>___________</p>
-        <p class="name">Dragonfruit Sorbet</p>
-      </div>
-      </a>
-    </div>
-
   </section>
-
-
 
     <?php include 'footer.php' ?>
     </body>
