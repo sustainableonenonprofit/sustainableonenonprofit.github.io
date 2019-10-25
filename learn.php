@@ -46,7 +46,7 @@ Images are 4000x6000 pixels
     </div>
     <div class="media">
       <a href="#">
-      <img src="assets/learn_assets/tropical_trees.jpg">
+      <img src="assets/learn_assets/tropical_trees.png">
       <div class="text">
         <p class="topic article">ARTICLE<br>___________</p>
         <p class="name">Matcha Mango Tea</p>
