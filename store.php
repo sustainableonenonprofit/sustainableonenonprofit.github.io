@@ -16,7 +16,7 @@
       </div>
     </div>
 
-    <h2 id="store-access">Click here to directly access our store</h3>
+    <h2 id="store-access">All products are created by our team!</h3>
 
     <section>
       <div class="media">
