@@ -7,17 +7,14 @@ body, html {
     height: 100%;
 }
 
-
-
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 900px) {
   header ul{
     display: none;
     visibility: hidden;
   }
-
 }
 
-@media screen and (min-width: 801px) {
+@media screen and (min-width: 901px) {
   header p{
     display: none;
     visibility: hidden;
@@ -25,111 +22,111 @@ body, html {
 }
 
 
-  /* Header stuff */
+/* Header stuff */
+header img{
+  height: 100px;
+  width: auto;
+  margin-left: 30px;
+  margin-right: 5px;
+}
+@media screen and (max-width: 500px){
   header img{
-    height: 100px;
+    height: 80px;
     width: auto;
-    margin-left: 30px;
-    margin-right: 5px;
+    margin-left: 10px;
+    margin-top: 10px;
   }
-  @media screen and (max-width: 500px){
-    header img{
-      height: 80px;
-      width: auto;
-      margin-left: 10px;
-      margin-top: 10px;
-    }
-  }
-  header{
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    height: 100px;
-    display: flex;
-    align-items: center;
-    z-index: 1;
-  }
-  header *{
-    display: inline-block;
-  }
-  header li{
-    margin: 18px;
-  }
-  header li:first-child{
-    margin-left: 50px;
-  }
-  header li a{
-    text-decoration: none;
-    color: white;
-    font-size: 18px;
-    font-family: 'Assistant', serif;
-    font-weight: bold;
-  }
-  header li a:hover{
-    color: #cc00ff;
-  }
-  header p{
-    position: absolute;
-    right: 30px;
-    color: white;
-  }
+}
+header{
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 100px;
+  display: flex;
+  align-items: center;
+  z-index: 1;
+}
+header *{
+  display: inline-block;
+}
+header li{
+  margin: 18px;
+}
+header li:first-child{
+  margin-left: 50px;
+}
+header li a{
+  text-decoration: none;
+  color: white;
+  font-size: 18px;
+  font-family: 'Assistant', serif;
+  font-weight: bold;
+}
+header li a:hover{
+  color: #cc00ff;
+}
+header p{
+  position: absolute;
+  right: 30px;
+  color: white;
+}
 
 
 
 /*Mobile Nav Bar */
 
-  .overlay {
-    height: 0%;
-    width: 100%;
-    position: fixed;
-    z-index: 2;
-    top: 0;
-    left: 0;
-    background-color: rgb(0,0,0);
-    background-color: rgba(0,0,0, 0.9);
-    overflow-y: hidden;
-    transition: 0.5s;
-  }
+.overlay {
+  height: 0%;
+  width: 100%;
+  position: fixed;
+  z-index: 2;
+  top: 0;
+  left: 0;
+  background-color: rgb(0,0,0);
+  background-color: rgba(0,0,0, 0.9);
+  overflow-y: hidden;
+  transition: 0.5s;
+}
 
-  .overlay-content {
-    position: relative;
-    top: 15%;
-    width: 100%;
-    text-align: center;
-    margin-top: 30px;
-  }
+.overlay-content {
+  position: relative;
+  top: 15%;
+  width: 100%;
+  text-align: center;
+  margin-top: 30px;
+}
 
-  .overlay a {
-    padding: 8px;
-    text-decoration: none;
-    font-size: 33px;
-    color: #cce0da;
-    display: block;
-    transition: 0.3s;
-    font-family: 'Lato', sans-serif;
-  }
+.overlay a {
+  padding: 8px;
+  text-decoration: none;
+  font-size: 33px;
+  color: #cce0da;
+  display: block;
+  transition: 0.3s;
+  font-family: 'Lato', sans-serif;
+}
 
-  .overlay a:hover, .overlay a:focus {
-    color: #cc00ff;
-  }
+.overlay a:hover, .overlay a:focus {
+  color: #cc00ff;
+}
 
+.overlay .closebtn {
+  position: absolute;
+  top: 5px;
+  right: 15px;
+  font-size: 60px;
+}
+
+@media screen and (max-height: 450px) {
+  .overlay {overflow-y: auto;}
+  .overlay a {font-size: 20px}
   .overlay .closebtn {
-    position: absolute;
-    top: 5px;
-    right: 15px;
-    font-size: 60px;
+  font-size: 40px;
+  top: 15px;
+  right: 35px;
   }
-
-  @media screen and (max-height: 450px) {
-    .overlay {overflow-y: auto;}
-    .overlay a {font-size: 20px}
-    .overlay .closebtn {
-    font-size: 40px;
-    top: 15px;
-    right: 35px;
-    }
-  }
+}
 
 
 
@@ -165,7 +162,7 @@ body, html {
   background-image:
 }
 
-@media screen and (max-width: 1200px) {
+@media screen and (max-width: 950px) {
    .hero-text{
      font-size: 1.3em;
    }
@@ -224,34 +221,6 @@ body, html {
   background-color: #4bd199;
 }
 
-/*
-.promo{
-  position: relative;
-}
-.promo img{
-  width: 100%;
-  height: auto;
-  max-height: 800px;
-  opacity: 0.9;
-}
-.promo img::after{
-  background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0) 0, #fff 100%);
-}
-
-*/
-
-/*
-#first-line{
-  font-family: Pacifico, sans-serif;
-  font-weight: bold;
-  font-size: 2.5em;
-  color: blue;
-  text-align: center;
-  position: absolute;
-  left: 0;
-  top: 45%;
-  width: 100%;
-}*/
 
 .headers{
   font-family: 'Abel', sans-serif;
