@@ -20,7 +20,7 @@ https://twloha.com/
     <meta name="description" content="Sustainable One is">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="styles.css">
-    <link href="https://fonts.googleapis.com/css?family=Abel|Assistant|Cuprum|Fira+Sans|Merriweather|Muli|Open+Sans+Condensed:300|Oswald|Pacifico|Roboto|Work+Sans&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Abel|Assistant|Cuprum|Fira+Sans|Open+Sans+Condensed:300|Oswald|Roboto|Work+Sans&display=swap" rel="stylesheet">
     <script src="script.js"></script>
   </head>
   <body>
