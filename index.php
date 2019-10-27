@@ -63,13 +63,6 @@ https://twloha.com/
       </div>
     </div>
 
-<!--
-Learn
-Get Involved
- - should be added to the navigation bar
-
--->
-
     <div class="section">
       <h1 class="headers"><br>Mission Statement</h1>
       <p id="line">____________________________</p>
@@ -86,7 +79,8 @@ Get Involved
         </div>
         <div class="text">
           <h1><br>Why Sustainability is Important</h1>
-          <p>Our actions matter. Our lives are connected to the nature around us.
+          <p>Our actions matter. Check out our Learn section to read articles, view infographics,
+            and discover extra online resources on all things environmental.
           </p>
           <button class="learn-more" onclick="window.open('learn.php','_self');">Learn More</button>
         </div>
@@ -102,7 +96,7 @@ Get Involved
              From stylish stickers to encourage your reusable water bottle usage to
              reusable shopping bags, our products will help you reduce your carbon footprint.
              <br><br>100% of funds earned goes to organizations saving the environment.</p>
-             <button class="learn-more" onclick="window.open('about.php','_self');">About</button>
+             <button class="learn-more" onclick="window.open('products.php','_self');">Products</button>
         </div>
       </div>
 
@@ -119,6 +113,7 @@ Get Involved
             education resources and advocating for a more sustainable lifestyle through
             social media. In the future, we hope to host a local conference for high
             school students.
+            For more information, check out our <a href="about.php">About</a> page here!</a>
             To see what we have been doing lately, check out our blog!
            </p>
            <button class="learn-more" onclick="window.open('blog.php','_self');">Blog</button>

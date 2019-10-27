@@ -281,6 +281,7 @@ header p{
   align-items: center;
   flex-wrap: wrap;
   background-color: #f0f3f4;
+  padding: 10px;
 }
 .img img{
   width: 345px;
@@ -294,10 +295,10 @@ header p{
 .text{
   padding: 10px;
   margin-left: 25px;
-  width: 57%;
+  width: 53%;
 }
 .text p{
-   font-size: 1.1em;
+   font-size: 1.2em;
    margin: auto;
    font-family: 'Abel', sans-serif;
    color: #35393b;
