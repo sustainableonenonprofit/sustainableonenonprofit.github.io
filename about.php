@@ -29,7 +29,7 @@
       </p>
       <h3>Do you have an online store?</h3>
       <p>We are currently working on setting up an online store! We will update you through our social media, newsletter,
-        and website blog once we get that working.
+        and website blog once we get the store working.
       </p>
       <h3>What do you do with the money you fundraise?</h3>
       <p>100% of net profits earned from our fundraising is donated to organizations that protect our environment.
@@ -43,7 +43,8 @@
         These supplies include art/shipping materials for our products and fees for hosting events/fundraisers. There are Kickstarter reward tiers to thank you for your support!</p>
     -->
       <h3>Why are you called Sustainable One?</h3>
-      <p>In our efforts to save the Earth, we hope to reduce our carbon footprint to be one Earth and some stuff.</p>
+      <p>In our efforts to save the Earth, we hope to reduce our carbon footprint to be one Earth. We currently need
+        multiple Earths to sustain our current lifestyle. Our organization hopes to help reduce our carbon footprint one step at a time.</p>
       <h3>I have an inquiry, suggestion, or question not listed above</h3>
       <p>Contact us through our <a href="contact.php">contact form</a>!</p>
     </div>

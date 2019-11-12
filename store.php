@@ -16,7 +16,8 @@
       </div>
     </div>
 
-    <h2 id="store-access">All products are created by our team!</h3>
+    <h2 id="store-access">All products are created by our team!<br>
+      Ordering on our online store will be coming soon!</h3>
 
     <section>
       <div class="media">
