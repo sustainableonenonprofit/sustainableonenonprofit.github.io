@@ -55,6 +55,7 @@ section{
 section img{
    width: 100%;
    max-width: 300px;
+   max-height: 300px;
    height: auto;
    transition: 0.2s all ease;
 }
@@ -70,4 +71,15 @@ section p{
 section img:hover {
   transform: scale(0.97);
   transition: 0.5s all ease;
+}
+.dimensions{
+  text-align: center;
+  margin-top: 30px;
+  margin-bottom: 100px;
+}
+.dimensions h3{
+  font-size: 1.6em;
+}
+.dimensions h4{
+  font-size: 1.2em;
 }

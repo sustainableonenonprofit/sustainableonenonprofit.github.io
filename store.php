@@ -47,16 +47,42 @@
       </div>
 
       <div class="media">
-        <img src="assets/shop_assets/elephantflower_tote.jpg">
-        <p>Medium Canvas Tote (12in x 10.5in)<br>$10</p>
+        <img src="assets/shop_assets/elephant_medium_tote.jpg">
+        <p>Elephant Cotton Tote (M)<br>$10</p>
       </div>
 
       <div class="media">
-        <img src="assets/shop_assets/panda_sticker.jpg">
-        <p>Large Canvas Tote (13.5in x 13in)<br>$12</p>
+        <img src="assets/shop_assets/whale_medium_tote.jpg">
+        <p>Whale Cotton Tote (M)<br>$10</p>
+      </div>
+
+      <div class="media">
+        <img src="assets/shop_assets/flower_elephant_medium_tote.jpg">
+        <p>Flower Elephant Cotton Tote (M)<br>$10</p>
+      </div>
+
+      <div class="media">
+        <img src="assets/shop_assets/unicorn_medium_tote.jpg">
+        <p>Unicorn Cotton Tote (M)<br>$10</p>
+      </div>
+
+      <div class="media">
+        <img src="assets/shop_assets/whale_large_tote.jpg">
+        <p>Whale Canvas Tote (L)<br>$12</p>
+      </div>
+
+      <div class="media">
+        <img src="assets/shop_assets/unicorn_large_tote.jpg">
+        <p>Unicorn Canvas Tote (L)<br>$12</p>
       </div>
 
     </section>
+
+    <div class="dimensions">
+      <h3>Sizing</h3>
+      <h4>Medium Cotton Tote: 12in x 10.5in</h4>
+      <h4>Large Canvas Tote: 13.5in x 13in</h4>
+    </div>
 
     <?php include 'footer.php' ?>
 

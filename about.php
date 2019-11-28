@@ -23,13 +23,13 @@
       <p><i>Sustainable One</i> is a nonprofit founded in 2019 by Michelle Ly, a high school student from Massachusetts.
         <i>Sustainable One</i> is composed of a team of students passionate about saving the environment.
       </p>
+      <h3>Do you have an online store?</h3>
+      <p>We are currently working on setting up an online store! We will update you through our social media, newsletter,
+        and website blog once we get the store working. You can check out what products we offer on our <a href="store">Store</a>.
+      </p>
       <h3>Where can I purchase your items?</h3>
       <p>We do our best to announce our fundraising events through social media, our newsletter, and our website blog.
         We are on Instagram, Twitter, and Facebook!
-      </p>
-      <h3>Do you have an online store?</h3>
-      <p>We are currently working on setting up an online store! We will update you through our social media, newsletter,
-        and website blog once we get the store working.
       </p>
       <h3>What do you do with the money you fundraise?</h3>
       <p>100% of net profits earned from our fundraising is donated to organizations that protect our environment.
@@ -47,7 +47,7 @@
         multiple Earths to sustain our current lifestyle. Our organization hopes to help reduce our carbon footprint one step at a time.</p>
       -->
       <h3>I have an inquiry, suggestion, or question not listed above</h3>
-      <p>Contact us through our <a href="contact.php">contact form</a>!</p>
+      <p>Contact us through our <a href="contact">contact form</a>!</p>
     </div>
 
     <div class="container">

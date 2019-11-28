@@ -88,7 +88,7 @@ https://twloha.com/
 
       <div class="container">
         <div class="img">
-          <img src="assets/main_image.jpg" alt="nature photo">
+          <img src="assets/shop.jpg" alt="nature photo">
         </div>
         <div class="text">
           <h1><br>Products</h1>
@@ -96,7 +96,7 @@ https://twloha.com/
              From stylish stickers to encourage your reusable water bottle usage to
              reusable shopping bags, our products will help you reduce your carbon footprint.
              <br><br>100% of funds earned goes to organizations saving the environment.</p>
-             <button class="learn-more" onclick="window.open('products','_self');">Products</button>
+             <button class="learn-more" onclick="window.open('store','_self');">Products</button>
         </div>
       </div>
 
