@@ -29,22 +29,22 @@ https://twloha.com/
     <div id="myNav" class="overlay">
       <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
       <div class="overlay-content">
-        <a href="about.php">About</a>
-        <a href="learn.php">Learn</a>
-        <a href="store.php">Store</a>
-        <a href="blog.php">Blog</a>
-        <a href="contact.php">Contact</a>
+        <a href="about">About</a>
+        <a href="learn">Learn</a>
+        <a href="store">Store</a>
+        <a href="blog">Blog</a>
+        <a href="contact">Contact</a>
       </div>
     </div>
 
     <header>
-        <a href="index.php"><img src="assets/logo_alpha_new.png" alt="logo"></a>
+        <a href="index"><img src="assets/logo_alpha_new.png" alt="logo"></a>
           <ul>
-            <li><a href="about.php">About</a></li>
-            <li><a href="learn.php">Learn</a></li>
-            <li><a href="store.php">Store</a></li>
-            <li><a href="blog.php">Blog</a></li>
-            <li><a href="contact.php">Contact</a></li>
+            <li><a href="about">About</a></li>
+            <li><a href="learn">Learn</a></li>
+            <li><a href="store">Store</a></li>
+            <li><a href="blog">Blog</a></li>
+            <li><a href="contact">Contact</a></li>
           </ul>
           <p><span style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776;</span></p>
     </header>
@@ -54,7 +54,7 @@ https://twloha.com/
 
     <div class="hero-image">
       <div class="hero-text">
-          <h1 id="first-line">Campaign dedicated to improving the environment</h1>
+          <h1 id="first-line">Nonprofit dedicated to improving the environment</h1>
           <p id="quote">"The natural environment sustains <br>the life of all beings universally"<br></p>
           <p id="quote-author">- Dalai Lama</p>
 
@@ -82,7 +82,7 @@ https://twloha.com/
           <p>Our actions matter. Check out our Learn section to read articles, view infographics,
             and discover extra online resources on all things environmental.
           </p>
-          <button class="learn-more" onclick="window.open('learn.php','_self');">Learn More</button>
+          <button class="learn-more" onclick="window.open('learn','_self');">Learn More</button>
         </div>
       </div>
 
@@ -96,7 +96,7 @@ https://twloha.com/
              From stylish stickers to encourage your reusable water bottle usage to
              reusable shopping bags, our products will help you reduce your carbon footprint.
              <br><br>100% of funds earned goes to organizations saving the environment.</p>
-             <button class="learn-more" onclick="window.open('products.php','_self');">Products</button>
+             <button class="learn-more" onclick="window.open('products','_self');">Products</button>
         </div>
       </div>
 
@@ -113,10 +113,10 @@ https://twloha.com/
             education resources and advocating for a more sustainable lifestyle through
             social media. In the future, we hope to host a local conference for high
             school students.
-            For more information, check out our <a href="about.php">About</a> page here!</a>
+            For more information, check out our <a href="about">About</a> page here!</a>
             To see what we have been doing lately, check out our blog!
            </p>
-           <button class="learn-more" onclick="window.open('blog.php','_self');">Blog</button>
+           <button class="learn-more" onclick="window.open('blog','_self');">Blog</button>
          </div>
       </div>
 
@@ -133,7 +133,7 @@ https://twloha.com/
           In addition, feel free to contact us for more information about volunteering
           opportunities, product requests, and any questions.
          </p>
-         <button class="learn-more" onclick="window.open('contact.php','_self');">Contact</button>
+         <button class="learn-more" onclick="window.open('contact','_self');">Contact</button>
        </div>
     </div>
 

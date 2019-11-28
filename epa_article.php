@@ -14,7 +14,7 @@
     <p class="back"><a href="learn.php">&#8592; Back to Learn</a></p>
     <div class="article">
       <h1 class="article-title">Brief History of the Environmental Protection Agency (EPA)</h1>
-      <p>By Zoe Lu | Published October 12, 2019</p>
+      <p>Published October 12, 2019</p>
     </div>
     <div class="content">
       <h4>The Development of the EPA<br></h4>

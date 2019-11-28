@@ -20,7 +20,7 @@
 
     <div class="faq">
       <h3>History of Sustainable One</h3>
-      <p><i>Sustainable One</i> is a campaign (and hopefully soon a nonprofit!) founded in 2019 by Michelle Ly, a high school student from Massachusetts.
+      <p><i>Sustainable One</i> is a nonprofit founded in 2019 by Michelle Ly, a high school student from Massachusetts.
         <i>Sustainable One</i> is composed of a team of students passionate about saving the environment.
       </p>
       <h3>Where can I purchase your items?</h3>
@@ -41,10 +41,11 @@
       <h3>What is the Kickstarter for?</h3>
       <p>In order to ensure that 100% of profits earned from fundraising goes towards helping our environment, we created a Kickstarter so supporters can pledge money to help us purchase needed supplies.
         These supplies include art/shipping materials for our products and fees for hosting events/fundraisers. There are Kickstarter reward tiers to thank you for your support!</p>
-    -->
+
       <h3>Why are you called Sustainable One?</h3>
       <p>In our efforts to save the Earth, we hope to reduce our carbon footprint to be one Earth. We currently need
         multiple Earths to sustain our current lifestyle. Our organization hopes to help reduce our carbon footprint one step at a time.</p>
+      -->
       <h3>I have an inquiry, suggestion, or question not listed above</h3>
       <p>Contact us through our <a href="contact.php">contact form</a>!</p>
     </div>

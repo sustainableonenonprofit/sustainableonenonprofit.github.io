@@ -16,6 +16,18 @@
       </div>
     </div>
 
+    <h2 class="post-title">Holiday Event at Robbins Library!</h2>
+    <p class="post-para">
+      We will be at the Robbins Library Kids' Holiday Craft Fair on Saturday, December 7
+      from 1:30 to 4:30 PM. The address is: 700 Massachusetts Avenue Arlington, MA 02476.
+      We will have stickers, tote bags, painted rocks, and other items. Hope to see you
+      there!
+      <br><br>
+      For more information, click <a href="https://www.robbinslibrary.org/event/kids-holiday-craft-fair-all-ages/" target="_blank">here<a>.
+       <br><br><i>Posted: 11/28/2019</i>
+    </p>
+
+
 
     <h2 class="post-title">Our first event!</h2>
     <p class="post-para">
@@ -28,7 +40,7 @@
     <img src="blog_posts/flyer.png" alt="flyer" id="flyer-img">
 
 
-    <h2 class="post-title">A Campaign</h2>
+    <h2 class="post-title">A Campaign - First Blog Post</h2>
     <p class="post-para">
 
        Welcome to <i>Sustainable One's</i> Blog!
@@ -43,12 +55,8 @@
        how you can decrease your carbon footprint.
 
        <br><br>
-       We are currently in the process of filing for 501(c)(3) nonprofit status.
-       In the meantime, we will be working hard to establish our campaign.
-
-       <br><br>
        Some things we have planned include creating helpful infographics on environmental
-       facts and publishing posts on <i>Medium</i>. We are working on making the website
+       facts and publishing blog posts. We are working on making the website
        as user-friendly as possible, so stick around!
 
        <br><br>

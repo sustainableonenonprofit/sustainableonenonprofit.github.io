@@ -13,7 +13,7 @@
     <p class="back"><a href="learn.php">&#8592; Back to Learn</a></p>
     <div class="article">
       <h1 class="article-title">A Solution to Food Waste</h1>
-      <p>By Kelly Ly | Published October 15, 2019</p>
+      <p>Published October 15, 2019</p>
     </div>
     <div class="content">
 
