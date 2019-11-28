@@ -12,22 +12,22 @@
       <div id="myNav" class="overlay">
         <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
         <div class="overlay-content">
-          <a href="about.php">About</a>
-          <a href="learn.php">Learn</a>
-          <a href="store.php">Store</a>
-          <a href="blog.php">Blog</a>
-          <a href="contact.php">Contact</a>
+          <a href="about">About</a>
+          <a href="learn">Learn</a>
+          <a href="store">Store</a>
+          <a href="blog">Blog</a>
+          <a href="contact">Contact</a>
         </div>
       </div>
 
       <header>
-          <a href="index.php"><img src="assets/logo_alpha.png" alt="logo"></a>
+          <a href="index"><img src="assets/logo_alpha.png" alt="logo"></a>
             <ul>
-              <li><a href="about.php">About</a></li>
-              <li><a href="learn.php">Learn</a></li>
-              <li><a href="store.php">Store</a></li>
-              <li><a href="blog.php">Blog</a></li>
-              <li><a href="contact.php">Contact</a></li>
+              <li><a href="about">About</a></li>
+              <li><a href="learn">Learn</a></li>
+              <li><a href="store">Store</a></li>
+              <li><a href="blog">Blog</a></li>
+              <li><a href="contact">Contact</a></li>
             </ul>
             <p><span style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776;</span></p>
       </header>
