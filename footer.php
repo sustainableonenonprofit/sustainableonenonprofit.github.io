@@ -41,9 +41,11 @@
       <a href="https://twitter.com/SustainableOne1" target="_blank">
         <img src="assets/CanvaTwitterLogo.svg" class="logo" alt="twitter-logo">
       </a>
+      <!--
       <a href="https://www.youtube.com" target="_blank">
         <img src="assets/CanvaYouTubeLogo.svg" class="logo" alt="youtube-logo">
       </a>
+    -->
     </div>
 
   <p id="footer-title">Sustainable One 2019</p>

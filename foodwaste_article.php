@@ -13,9 +13,87 @@
     <p class="back"><a href="learn.php">&#8592; Back to Learn</a></p>
     <div class="article">
       <h1 class="article-title">A Solution to Food Waste</h1>
-      <p>Published October 15, 2019</p>
     </div>
     <div class="content">
+      <p>
+        According to the Food and Agriculture Organization of the United Nations, “roughly
+        one third of the food produced in the world for human consumption every year —
+        approximately 1.3 billion tonnes — gets lost or wasted” (Food and Agricultural
+        Organization, 2019). Food waste is a not only a huge economic loss. Food waste is
+        also a major issue when many around the globe die of starvation and is a large
+        contributor to global warming.
+        <br><br>
+      </p>
+      <p>
+        When food goes into the landfill without the presence of oxygen, it starts to break
+        down through anaerobic decomposition and releases landfill gas (LFG) as a byproduct,
+        which is mainly composed of methane (CH<sub>4</sub>) and carbon dioxide (CO<sub>2</sub>) (Environmental
+        Protection Agency, July 2019). Both methane and carbon dioxide are greenhouse gases,
+        which means they trap heat in the atmosphere, but “CH<sub>4</sub> [methane] is more efficient at
+        trapping radiation than CO<sub>2</sub> [carbon dioxide]” (Environmental Protection Agency, April 2019).
+        This means methane is a more dangerously potent greenhouse gas than carbon dioxide and thus
+        makes food waste that ends up in the landfill a major contributor to global warming.
+        <br><br>
+      </p>
+      <p>
+        There are other hidden costs that surface before our food gets to our plate. First of all,
+        factories and farms have to be built, which leads to deforestation and the loss of natural
+        habitats for many organisms. Secondly, to cultivate crops, lots of pesticides and water are
+        used, and the runoff of fertilizers containing nitrogen and phosphorus can seep into our groundwater
+        or cause harmful algal blooms. Nitrogen and phosphorus create ideal conditions for algae to grow,
+        but algae consume a lot of oxygen (thus making the pond hypoxic) and suffocate other organisms
+        in the pond (Clear Choices, n.d.). Lastly, food from the farm needs to be packaged and sent to
+        distribution centers, sometimes even several of them, before they arrive at your local supermarket.
+        The transportation of food and the operation of these centers require the combustion of fossil fuels
+        and release even more greenhouse gases to the atmosphere.
+        <br><br>
+      </p>
+      <p>
+        What can we do about this? The best way to prevent food waste is to only buy what you need. If we stop
+        purchasing that extra, uneaten bag of potato chips, we prevent the environmental effects that brought
+        that item to our home and ultimately to the landfill in the first place.
+        <br><br>
+      </p>
+      <p>
+        Composting is most ideal for leftover apple stems, orange peels, and rotten peaches, which can prevent
+        inedible food contents from ending up in landfills. Composting allows us to turn and thus aerate the
+        contents to aerobically decompose and return the organic matter to our soil, which prevents the methane
+        production from anaerobic decomposition (Global Composting Solutions). Of course, we cannot compost everything
+        and not everyone has a compost bin although <a href="https://www.diyncrafts.com/33618/home/gardening/35-cheap-easy-diy-compost-bins-can-build-weekend" target="_blank">
+        DIY & Crafts</a> suggests that it is certainly easy to create one at home!
+        <br><br>
+      </p>
+      <p>
+        Here are some extra tips to help you reduce your food waste:
+        <br><br>
+      </p>
+
+      <ol>
+        <li><strong>Start with a grocery shopping list</strong> — Sticking to a plan can help you not buy any extra items. We tend
+          to come out of the grocery store with much more than we expected. Some things you can do are plan your meals
+          beforehand and read your grocery store’s weekly ad beforehand so you can anticipate what sales there are.<br><br></li>
+        <li><strong>Purchase locally sourced foods</strong> — Going to a farmer’s markets is a great way to purchase locally sourced
+          foods. It not only cuts on transportation emissions and supports local businesses but also gets you fresh food. Many farms
+           have pick-your-own berries and apples, which can be a fun activity. In addition, some supermarkets have signs mentioning
+           that a particular product was sourced locally. <br><br></li>
+        <li><strong>Use your own judgment with expiration dates</strong> — The expiration dates are there to ensure that the food is
+          at the best quality up to that date. However, it is not a complete indicator of the actual conditions of the food. If a food
+          item expired a day or two ago, use your judgment and decide whether you can or cannot eat it. <br><br></li>
+        <li><strong>Compost leftover fruits and vegetables</strong> — Food waste is not completely preventable, but we can prevent most food from
+          ending up in landfills. <a href=https://learn.eartheasy.com/guides/composting/ target="_blank">Eartheasy's Composting Guide</a>
+          has some extra tips on what you can or cannot compost and how to compost successfully. <br><br></li>
+        <li><strong>Use a food reduction or food sharing app</strong> — These apps allow restaurants to sell any extra, unsold food they made
+          for the day at a discounted price or help a user track how much food the user has thrown out. Check out <a href="https://impakter.com/food-waste-apps/" target="_blank">
+            this article from Impakter</a> for more information. <br><br></li>
+      </ol>
+
+      <h4>References</h4>
+        <p>Clear Choices Clean Water Indiana (n.d.). Fertilizer Impacts. Retrieved October 22, 2019, from http://indiana.clearchoicescleanwater.org/lawns/fertilizer-impacts.</p>
+        <p>Environmental Protection Agency. (2019, April 11). Overview of Greenhouse Gases. Retrieved October 22, 2019, from https://www.epa.gov/ghgemissions/overview-greenhouse-gases.</p>
+        <p>Environmental Protection Agency. (2019, July 30). Basic Information about Landfill Gas. Retrieved October 22, 2019, from https://www.epa.gov/lmop/basic-information-about-landfill-gas.</p>
+        <p>Food and Agricultural Organization of the United Nations. (2019). Key facts on food loss and waste you should know! Retrieved October 22, 2019, from http://www.fao.org/save-food/
+          resources/keyfindings/en/.</p>
+        <p>Global Composting Solutions. (2019). Aerobic Composting vs Anaerobic Composting. Retrieved November 29, 2019, from https://www.globalcomposting.solutions/aerobic-vs-anearobic-composting.</p>
 
     </div>
     <?php include 'footer.php' ?>

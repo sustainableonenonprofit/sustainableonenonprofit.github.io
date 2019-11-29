@@ -27,7 +27,7 @@ Images are 4000x6000 pixels
 
     <section>
     <div class="media">
-      <a href="epa_article.php">
+      <a href="epa_article">
       <img src="assets/learn_assets/tree_sea.jpg">
       <div class="text">
         <p class="topic article">ARTICLE<br>___________</p>
@@ -36,7 +36,7 @@ Images are 4000x6000 pixels
       </a>
     </div>
     <div class="media">
-      <a href="foodwaste_article.php">
+      <a href="foodwaste_article">
       <img src="assets/learn_assets/lake_mist.png">
       <div class="text">
         <p class="topic article">ARTICLE<br>___________</p>

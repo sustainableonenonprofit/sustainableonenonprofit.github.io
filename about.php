@@ -25,7 +25,7 @@
       </p>
       <h3>Do you have an online store?</h3>
       <p>We are currently working on setting up an online store! We will update you through our social media, newsletter,
-        and website blog once we get the store working. You can check out what products we offer on our <a href="store">Store</a>.
+        and website blog once we get the store working. You can check out what products we offer on our <a href="store">store</a>.
       </p>
       <h3>Where can I purchase your items?</h3>
       <p>We do our best to announce our fundraising events through social media, our newsletter, and our website blog.
@@ -35,8 +35,8 @@
       <p>100% of net profits earned from our fundraising is donated to organizations that protect our environment.
          Check out our blog or social media to see which organizations we have recently donated to!</p>
       <h3>What items do you sell? / Where do you get your designs?</h3>
-      <p>Our team designs the items! We do the ironing for fabric products and print directly onto sticker paper and laminate it ourselves.
-        Some products we sell includes laptop stickers, tote bags, painted rocks, and prints.</h3>
+      <p>Our team designs the items! We do the ironing for fabric products. We print directly onto sticker paper and laminate stickers ourselves.
+        Some products we sell includes laptop stickers, tote bags, painted rocks, bookmarks, and prints.</h3>
       <!--
       <h3>What is the Kickstarter for?</h3>
       <p>In order to ensure that 100% of profits earned from fundraising goes towards helping our environment, we created a Kickstarter so supporters can pledge money to help us purchase needed supplies.

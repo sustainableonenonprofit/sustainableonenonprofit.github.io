@@ -65,7 +65,10 @@ body{
     line-height: 1.3;
     font-family: 'Pavanam', sans-serif;
 }
-.faq a, .faq a:visited{ color: blue; }
+.faq a, .faq a:visited{
+  color: blue;
+  font-family: 'Pavanam', sans-serif;
+}
 
 .faq i{
   font-family: 'Pavanam', sans-serif;

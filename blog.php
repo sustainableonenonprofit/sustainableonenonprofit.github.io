@@ -27,7 +27,7 @@
        <br><br><i>Posted: 11/28/2019</i>
     </p>
 
-
+    <img src="blog_posts/holiday_craft_fair.png" alt="holiday craft fair flyer" id="flyer-img">
 
     <h2 class="post-title">Our first event!</h2>
     <p class="post-para">
