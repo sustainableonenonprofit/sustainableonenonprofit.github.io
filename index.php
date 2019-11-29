@@ -1,17 +1,3 @@
-<!-- Wamp server on desktop -->
-<!-- Layout Example: https://www.elevationweb.org/best-nonprofit-websites/ -->
-<!-- For side layout https://www.children.org/ -->
-
-
-<!-- New layout examples
-
-https://greenpeacefund.org/
-https://www.nature.org/en-us/
-https://plantchicago.org/
-https://twloha.com/
-
--->
-
 <!DOCTYPE html>
 <html>
   <head>
@@ -24,7 +10,6 @@ https://twloha.com/
     <script src="script.js"></script>
   </head>
   <body>
-
 
     <div id="myNav" class="overlay">
       <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
@@ -48,9 +33,6 @@ https://twloha.com/
           </ul>
           <p><span style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776;</span></p>
     </header>
-
-
-
 
     <div class="hero-image">
       <div class="hero-text">

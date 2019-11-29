@@ -10,7 +10,6 @@
   </head>
   <body>
 
-
     <!-- Begin Mailchimp Signup Form -->
     <link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
 
@@ -46,8 +45,6 @@
 
   <p id="footer-title">Sustainable One 2019</p>
   </div>
-
-
 
 </body>
 </html>

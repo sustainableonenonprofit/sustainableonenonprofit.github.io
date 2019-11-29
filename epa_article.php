@@ -14,9 +14,10 @@
     <p class="back"><a href="learn.php">&#8592; Back to Learn</a></p>
     <div class="article">
       <h1 class="article-title">Brief History of the Environmental Protection Agency (EPA)</h1>
+      <p>Published October 2019</p>
     </div>
     <div class="content">
-      <h4>The Development of the EPA<br></h4>
+      <h4>The Development of the EPA</h4>
       <p>
       The EPA (Environmental Protection Agency) strives to consolidate environmental responsibilities in every aspect. Originating in the 1970s, the idea of the EPA was proposed by the president of the time, Richard Nixon, in response to the rising concern of water and air pollution in the wake of disasters. It was approved by the House and the Senate on December 4, 1970, and William Ruckelshaus took office. The goal of the EPA was mainly to research pollutants, monitor the condition of the environment, and establish environmental baselines. Since the establishment, the EPA has removed great amounts of toxic waste, regulated the ozone layer, increased recycling, and more to provide cleaner air, purer water, and a safe environment for the world. It continues to provide stability for our environment and play an important factor in improving our environment every step of the way.
       <br><br>
