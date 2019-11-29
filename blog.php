@@ -51,7 +51,7 @@
 
        <br><br>
        Our blog will update you with news and
-       stories! Sign up to our newsletter to see when there is a new posting and to find out
+       stories! Subscribe to our newsletter to see when there is a new posting and to find out
        how you can decrease your carbon footprint.
 
        <br><br>
