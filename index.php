@@ -40,7 +40,7 @@
           <p id="quote">"The natural environment sustains <br>the life of all beings universally"<br></p>
           <p id="quote-author">- Dalai Lama</p>
 
-          <button id="kickstarter" onclick="window.open('https://www.kickstarter.com','_blank');">Support our Kickstarter</button>
+          <button id="kickstarter" onclick="window.open('http://eepurl.com/gLkP7H','_blank');">Subscribe to our Newsletter</button>
 
       </div>
     </div>
