@@ -27,20 +27,19 @@
     <!--End mc_embed_signup-->
 
     <div class="social-media-logos">
-      <a href="https://www.facebook.com" target="_blank">
+
+      <!--<a href="https://www.facebook.com" target="_blank">-->
         <img src="assets/FacebookLogo.svg" class="logo" id="facebook-logo" alt="facebook-logo">
-      </a>
+    <!--  </a> -->
       <a href="https://www.instagram.com/sustainable.one/?hl=en" target="_blank">
         <img src="assets/CanvaInstagramLogo.svg" class="logo" alt="instagram-logo">
       </a>
       <a href="https://twitter.com/SustainableOne1" target="_blank">
         <img src="assets/CanvaTwitterLogo.svg" class="logo" alt="twitter-logo">
       </a>
-      <!--
-      <a href="https://www.youtube.com" target="_blank">
+      <!-- <a href="https://www.youtube.com" target="_blank"> -->
         <img src="assets/CanvaYouTubeLogo.svg" class="logo" alt="youtube-logo">
-      </a>
-    -->
+    <!--  </a>  -->
     </div>
 
   <p id="footer-title">Sustainable One 2019</p>
