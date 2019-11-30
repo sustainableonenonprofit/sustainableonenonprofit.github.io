@@ -192,7 +192,6 @@ header p{
   margin-top: 22px;
   font-family: 'Cuprum', sans-serif;
 }
-/*need to add quote html*/
 #quote-author{
   margin-top: 10px;
   font-family: 'Cuprum', sans-serif;
@@ -249,8 +248,6 @@ header p{
 }
 
 
-
-
 /*button*/
 .learn-more{
   margin-right:auto;
@@ -270,9 +267,6 @@ header p{
   background-color: purple;
   color: #f0f3f4;
 }
-
-
-
 
 /*flexbox*/
 .container{
@@ -297,7 +291,7 @@ header p{
   margin-left: 25px;
   width: 53%;
 }
-.text p{
+.text p, .text a{
    font-size: 1.2em;
    margin: auto;
    font-family: 'Abel', sans-serif;

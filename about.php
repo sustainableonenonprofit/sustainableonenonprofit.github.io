@@ -32,7 +32,7 @@
         We are on Instagram, Twitter, and Facebook!
       </p>
       <h3>What do you do with the money you fundraise?</h3>
-      <p>100% of net profits earned from our fundraising is donated to organizations that protect our environment.
+      <p>Profits earned from our fundraising is donated to organizations that protect our environment.
          Check out our blog or social media to see which organizations we have recently donated to!</p>
       <h3>What items do you sell? / Where do you get your designs?</h3>
       <p>Our team designs the items! We do the ironing for fabric products. We print directly onto sticker paper and laminate stickers ourselves.

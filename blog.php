@@ -21,7 +21,8 @@
       We will be at the Robbins Library Kids' Holiday Craft Fair on Saturday, December 7
       from 1:30 to 4:30 PM. The address is: 700 Massachusetts Avenue Arlington, MA 02476.
       We will have stickers, tote bags, painted rocks, and other great items. Hope to see you
-      there!
+      there! The funds raised from this event and our first event will be donated to the <a href="https://www.apcc.org/" target="_blank">
+      Association to Preserve Cape Cod</a>.
       <br><br>
       For more information on the event, click <a href="https://www.robbinslibrary.org/event/kids-holiday-craft-fair-all-ages/" target="_blank">here<a>.
        <br><br><i>Posted: 11/28/2019</i>

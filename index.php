@@ -51,7 +51,7 @@
       <p id="mission-para">We hope to engage our community and beyond to contribute to protecting our environment.
          As a group of high school students based in Massachusetts, our campaign hopes to encourage youth to be
          leaders in their community and understand environmental issues.
-         100% of our fundraising profits go towards helping the environment.
+         Profits raised from our fundraising go towards helping the environment.
       </p>
     </div>
 
@@ -61,8 +61,8 @@
         </div>
         <div class="text">
           <h1><br>Why Sustainability is Important</h1>
-          <p>Our actions matter. Check out our Learn section to read articles, view infographics,
-            and discover extra online resources on all things environmental.
+          <p>Our actions matter. Check out our Learn section to read articles and view infographics our group has made and
+            to discover extra online resources on all things environmental.
           </p>
           <button class="learn-more" onclick="window.open('learn','_self');">Learn More</button>
         </div>
@@ -76,12 +76,11 @@
           <h1><br>Products</h1>
           <p>We sell products handmade by us, a group of high school students.
              From stylish stickers to encourage your reusable water bottle usage to
-             reusable shopping bags, our products will help you reduce your carbon footprint.
-             <br><br>100% of funds earned goes to organizations saving the environment.</p>
+             reusable bags for shopping, our products will help you reduce your carbon footprint.
+             <br><br>Funds earned goes to organizations saving the environment.</p>
              <button class="learn-more" onclick="window.open('store','_self');">Products</button>
         </div>
       </div>
-
 
       <div class="container">
         <div class="img">

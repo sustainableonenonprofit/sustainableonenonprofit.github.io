@@ -1,7 +1,3 @@
-<!--
-Images are 4000x6000 pixels
--->
-
 <!DOCTYPE html>
 <html>
   <head>
