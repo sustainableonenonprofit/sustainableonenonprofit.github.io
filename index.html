@@ -3,11 +3,17 @@
   <head>
     <title>Sustainable One</title>
     <meta charset="UTF-8">
-    <meta name="description" content="Sustainable One is">
+    <meta name="description" content="Sustainable One Website">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="styles.css">
     <link href="https://fonts.googleapis.com/css?family=Abel|Assistant|Cuprum|Fira+Sans|Open+Sans+Condensed:300|Oswald|Roboto|Work+Sans&display=swap" rel="stylesheet">
     <script src="script.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script>
+      $(function(){
+        $("#footer").load("footer.html");
+      });
+    </script>
   </head>
   <body>
 
@@ -111,14 +117,14 @@
           Subscribe to our newsletter and get the latest updates by following
           our social media accounts. Check out the bottom of the page!
           <br><br>
-          In addition, feel free to contact us for more information about volunteering
+          Feel free to contact us for more information about volunteering
           opportunities, product requests, and any questions.
          </p>
          <button class="learn-more" onclick="window.open('contact','_self');">Contact</button>
        </div>
     </div>
 
-    <?php include 'footer.php' ?>
+    <div id="footer"></div>
 
   </body>
 </html>

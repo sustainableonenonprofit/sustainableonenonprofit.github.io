@@ -2,14 +2,22 @@
 <html>
   <head>
     <title>Sustainable One - Store</title>
-    <meta charset = "UTF-8" />
-    <meta name="description" content="Sustainable One is">
+    <meta charset = "UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="store_styles.css">
     <link href="https://fonts.googleapis.com/css?family=Playfair+Display:700&display=swap" rel="stylesheet">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script>
+      $(function(){
+        $("#header").load("header.html");
+        $("#footer").load("footer.html");
+      });
+    </script>
   </head>
   <body>
-    <?php include 'header_reg.php' ?>
+
+    <div id="header"></div>
+
     <div class="hero-image">
       <div class="hero-text">
         <h1 id="page-name">Store</h1>
@@ -89,7 +97,7 @@
       <h4>Large Canvas Tote: 13.5in x 13in</h4>
     </div>
 
-    <?php include 'footer.php' ?>
+    <div id="footer"></div>
 
   </body>
 </html>

@@ -3,13 +3,20 @@
   <head>
     <title>Sustainable One - Learn</title>
     <meta charset = "UTF-8" />
-    <meta name="description" content="Sustainable One is">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="learn_styles.css">
     <link href="https://fonts.googleapis.com/css?family=Merriweather|Playfair+Display:700&display=swap" rel="stylesheet">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script>
+      $(function(){
+        $("#header").load("header.html");
+        $("#footer").load("footer.html");
+      });
+    </script>
   </head>
   <body>
-    <?php include 'header_reg.php' ?>
+
+    <div id="header"></div>
 
     <div class="hero-image">
       <div class="hero-text">
@@ -90,8 +97,8 @@
       </a>
     </div>
 -->
-  </section>
+    </section>
 
-    <?php include 'footer.php' ?>
-    </body>
-  </html>
+    <div id="footer"></div>
+  </body>
+</html>

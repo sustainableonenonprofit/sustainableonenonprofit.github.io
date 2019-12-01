@@ -1,15 +1,23 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Sustainable One - Learn</title>
+    <title>Sustainable One - EPA Article</title>
     <meta charset = "UTF-8" />
-    <meta name="description" content="Sustainable One is">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="article_styles.css">
     <link href="https://fonts.googleapis.com/css?family=Merriweather|Playfair+Display:700&display=swap" rel="stylesheet">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script>
+      $(function(){
+        $("#header").load("header.html");
+        $("#footer").load("footer.html");
+      });
+    </script>
   </head>
   <body>
-    <?php include 'header_reg.php' ?>
+
+    <div id="header"></div>
+
     <img src="assets/article_assets/mtns_trees_bluesky.jpg" alt="mountains, trees, blue sky photo" class="article-photo">
     <p class="back"><a href="learn.php">&#8592; Back to Learn</a></p>
     <div class="article">
@@ -32,7 +40,9 @@
       <p>“The Origins of EPA.” EPA, Environmental Protection Agency, 19 Nov. 2018, www.epa.gov/history/origins-epa.</p>
       <p>“Quick History of the National Park Service (U.S. National Park Service).” National Parks Service, U.S. Department of the Interior, www.nps.gov/articles/quick-nps-history.htm#targetText=On August 25, 1916, President,those yet to be established.</p>
     </div>
-    <?php include 'footer.php' ?>
+
+    <div id="footer"></div>
+
   <body>
 
 </html>
