@@ -18,7 +18,7 @@ body{
   display: block;
   margin-left: auto;
   margin-right: auto;
-  margin-bottom: 10px;
+  margin-bottom: 15px;
 }
 .back{
   margin-left: 5%;
@@ -33,7 +33,7 @@ body{
   margin-bottom: 35px;
 }
 .article-title{
-  margin-top: 10px;
+  margin-top: 20px;
   font-family: 'Poppins', serif;
 }
 .article p{
@@ -41,8 +41,9 @@ body{
   font-size: 18px;
 }
 .content{
-  margin-left: 27.5%;
-  margin-right: 27.5%;
+  margin-left: auto;
+  margin-right: auto;
+  width: 600px;
   line-height: 2.0em;
   margin-bottom: 65px;
 }
@@ -55,9 +56,28 @@ body{
   font-family: 'Source Serif Pro', serif;
   font-size: 20.5px;
 }
-@media screen and (max-width: 800px) {
-  .content{
-    margin-left: 7%;
-    margin-right: 7%;
+
+@media screen and (max-width: 650px) {
+  .article-title{
+    font-size: 30px;
+    margin-bottom: 5px;
+    margin-left: 2.5%;
+    margin-right: 2.5%;
   }
+  .article p{
+    font-size: 18px;
+  }
+  .content{
+    width: auto;
+    margin-left: 6%;
+    margin-right: 6%;
+
+  }
+  .content h4{
+    font-size: 23.5px;
+  }
+  .content p{
+    font-size: 18.5px;
+  }
+
 }
