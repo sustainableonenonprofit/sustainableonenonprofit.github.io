@@ -52,7 +52,7 @@ body{
   font-size: 26px;
   margin-bottom: 10px;
 }
-.content p{
+.content p, .content a, .content li, .content strong{
   font-family: 'Source Serif Pro', serif;
   font-size: 20.5px;
 }
@@ -71,13 +71,15 @@ body{
     width: auto;
     margin-left: 6%;
     margin-right: 6%;
-
   }
   .content h4{
     font-size: 23.5px;
   }
-  .content p{
+  .content p, .content a, .content li, .content strong{
     font-size: 18.5px;
+  }
+  .content ol{
+    margin-left: 6%;
   }
 
 }
